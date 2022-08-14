@@ -1015,12 +1015,12 @@ li.dropdown {
 }
 
 .footer .box-container .box a i {
-  color: #219150;
+  color: #00ecec;
   padding-right: .5rem;
 }
 
 .footer .box-container .box a:hover {
-  color: #219150;
+  color: #00ecec;
 }
 
 .footer .box-container .box a:hover i {
@@ -1037,7 +1037,7 @@ li.dropdown {
 }
 
 .footer .credit span {
-  color: #219150;
+  color: #00ecec;
 }
 
 @media (max-width: 1200px) {
